@@ -1,0 +1,52 @@
+*{margin: 0; padding 0;
+    
+}
+body{
+    
+   background: #207ee9;
+}
+h1, h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;border: 5px solid palevioletred;
+    background-color: rgb(10, 112, 228);height: 100px; color: white;
+}
+#con{background-color: blue;}
+#ilyas{background-color: rgb(219, 16, 175);}
+#roll{background-color:purple;}
+#smit{background-color: rgb(175, 25, 50);}
+nav{
+    background-color: rgb(8, 12, 231);
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white; text-align: center;
+    font-size: 20px;
+    padding: 20px;
+}
+p{
+    font-size: 30px;
+    text-align: center; background-color: rgb(200, 160, 238);
+    margin-top: 20px;
+}
+table{
+    align-items: center;background-color: rgb(159, 78, 235);
+    margin-top: 20px; border: 1px solid black;margin: auto;
+    border-collapse: collapse; height: 100px;
+    width: 80%; color: white;
+}
+li{color: white;margin-top: 10px;}
+label{margin-left: 20px;}
+button{margin-left: 20px; border-radius: 10px;}
+#A us{text-align: left;}
+
+a:hover{
+    background-color: dodgerblue;
+    color:red; display:block;
+    
+}
